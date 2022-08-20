@@ -25,13 +25,18 @@
 
 <div style="display: flex;"> 
   <img src="https://github-readme-stats.vercel.app/api?username=kasimibrhaim&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=e4e4e7&icon_color=0891b2&bg_color=3f3f46&hide_border=true&show_icons=true" alt="kasimibrhaim's GitHub stats" height="229" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasimibrhain&layout=compact&langs_count=10&title_color=0891b2&text_color=e4e4e7&icon_color=0891b2&bg_color=3f3f46&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" height="229" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasimibrhaim&layout=compact&langs_count=10&title_color=0891b2&text_color=e4e4e7&icon_color=0891b2&bg_color=3f3f46&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" height="229" />
 </div>
 <img src="https://activity-graph.herokuapp.com/graph?username=kasimibrhaim&bg_color=3f3f46&color=e4e4e7&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" width="100%" />
 
-### Maintainer at
-<a href="https://github.com/t3-oss"><img src="https://avatars.githubusercontent.com/u/108266839?s=200&v=4" height="100" /></a>
+📫 How to reach me **ibrahiim.kassim@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/qasimuok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="qasimuok" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ibrahim-kasim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibrahim-kasim" height="30" width="40" /></a>
+</p>
 
 ### Contributes to
 [![create-t3-app](https://github-readme-stats.vercel.app/api/pin/?username=t3-oss&repo=create-t3-app&bg_color=3f3f46&text_color=e4e4e7&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true)](https://github.com/t3-oss/create-t3-app)
-[![tRPC](https://github-readme-stats.vercel.app/api/pin/?username=trpc&repo=trpc&bg_color=3f3f46&text_color=e4e4e7&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true)](https://github.com/trpc/trpc)
+
