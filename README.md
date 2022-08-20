@@ -18,7 +18,7 @@
   <a href="https://www.tailwindcss.com"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
   <a href="https://prisma.io"><img src="https://www.prisma.io/images/favicon-32x32.png" width="36" height="36" alt="Prisma" /></a>
   <a href="https://planetscale.com"><img src="https://planetscale.com/favicon.svg" width="36" height="36" alt="PlanetScale" /></a>
-   <a href="https://hardhat.org/"><img src="https://hardhat.org/favicon.svg" width="36" height="36" alt="Hardhat" /></a>
+   <a href="https://hardhat.org/"><img src="https://github.com/kasimibrhaim/kasimibrhaim/blob/main/favicon.ico" width="36" height="36" alt="Hardhat" /></a>
 </div>
 
 ### Stats
