@@ -23,14 +23,12 @@
 
 ### Stats
 
-<table cellpadding="0">
-  <tr style="padding: 0">
-    <!-- GitHub Stats Card -->  
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=kasimibrhaim&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats"/></td>
-    <!-- GitHub Top Language Card -->
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasimibrhaim&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&hide=HTML&custom_title=Top%20Languages"/></td>
-  </tr>
-</table>
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+     <img src="https://github-readme-stats.vercel.app/api?username=kasimibrhaim&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasimibrhaim&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
+  </div>
+</div>
 <img src="https://activity-graph.herokuapp.com/graph?username=kasimibrhaim&bg_color=3f3f46&color=e4e4e7&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" width="100%" />
 
 📫 How to reach me **ibrahiim.kassim@gmail.com**
