@@ -14,7 +14,7 @@
   <a href="https://www.typescriptlang.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
   <a href="https://www.reactjs.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
   <a href="https://www.nextjs.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-  <a href="https://trpc.io"><img src="https://trpc.io/img/logo-no-text.svg" width="36" height="36" alt="tRPC"/></a>
+<a href="https://trpc.io"><img src="https://avatars.githubusercontent.com/u/78011399?s=200&v=4" width="48" height="48" alt="tRPC"/></a>
   <a href="https://www.tailwindcss.com"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
   <a href="https://prisma.io"><img src="https://www.prisma.io/images/favicon-32x32.png" width="36" height="36" alt="Prisma" /></a>
   <a href="https://planetscale.com"><img src="https://planetscale.com/favicon.svg" width="36" height="36" alt="PlanetScale" /></a>
@@ -32,7 +32,9 @@
   </tr>
 </table>
 </div>
-<img src="https://activity-graph.herokuapp.com/graph?username=kasimibrhaim&bg_color=3f3f46&color=e4e4e7&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" width="100%" />
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kasimibrhaim&theme=tokyo-night)](https://github.com/kasimibrhaim/github-readme-activity-graph)
 
 📫 How to reach me **ibrahiim.kassim@gmail.com**
 
