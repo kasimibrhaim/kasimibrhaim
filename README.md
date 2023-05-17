@@ -5,7 +5,7 @@
 * 👨‍💻  Currently mostly into webapps. Build most stuff using the [create-t3-app](https://www.github.com/nexxeln/create-t3-app) stack
 * 🌍  Based in Kenya 🇰🇪
 * 🏫  Graduate @ [Jomo Kenyatta University](http://www.jkuat.ac.ke/) 
-* 💬 Ask me about **react, Hardhat and Truffle**
+* 💬 Ask me about **react, Nextjs, T3Stack, Prisma, Hardhat and Truffle**
 * 🤝  I'm open to collaborating on interesting projects
 * 🧑‍🏫  "Best way to learn is to build shit" - [dabit3](https://github.com/dabit3)
 
