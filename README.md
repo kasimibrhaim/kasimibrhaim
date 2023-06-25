@@ -34,7 +34,12 @@
 </div>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kasimibrhaim&theme=tokyo-night)](https://github.com/kasimibrhaim/github-readme-activity-graph)
+<a href="https://github.com/kasimibrhaim/github-readme-activity-graph">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=kasimibrhaim&theme=github-dark&area=true&hide_border=true&custom_title=Past%20Months%20Activity&color=ffffff&bg_color=0e1116">
+        <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=kasimibrhaim&theme=github-light&area=true&hide_border=true&custom_title=Past%20Months%20Activity">
+    </picture>
+</a>
 
 📫 How to reach me **ibrahiim.kassim@gmail.com**
 
